@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chatwimon  Thongbankhomng;;;
+FN:Chatwimon  Thongbankhomng
+ORG:Geniussoft Co.,Ltd.;
+TITLE:Recruitment Support\n
+EMAIL;type=INTERNET;type=WORK;type=pref:Chatwimon.T@geniussoft.co.th
+TEL;type=WORK;type=VOICE:094-4142525
+item1.ADR;type=WORK;type=pref:;;No.88 PASO Tower,15th floor,Unit B2 Silom Road Suriyawong,Bangruk,Bangkok 10500 Thailand
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.geniussoft.co.th/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
