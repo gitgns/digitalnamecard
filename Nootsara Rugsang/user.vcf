@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wansuda Yokwiy;;;
+FN:Wansuda Yokwiy
+ORG:Geniussoft Co.,Ltd.;
+TITLE:Sale Coordinator\n
+EMAIL;type=INTERNET;type=WORK;type=pref:wansuda.y@geniussoft.co.th
+TEL;type=WORK;type=VOICE:090-9466555
+item1.ADR;type=WORK;type=pref:;;No.88 PASO Tower,15th floor,Unit B2 Silom Road Suriyawong,Bangruk,Bangkok 10500 Thailand
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.geniussoft.co.th/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
