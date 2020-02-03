@@ -179,6 +179,19 @@ img.profile-pic {
 	font-weight: 300;
 }
 
+.buttonnewgen {
+	background-color: #A93226;
+	height: 48px;
+	padding-left: 24px
+	padding-right: 24px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 48px;
+	font-family: 'Muli', sans-serif;
+	color: white;
+	font-weight: 300;
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
