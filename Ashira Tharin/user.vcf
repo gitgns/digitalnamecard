@@ -12,4 +12,4 @@ item1.ADR;type=WORK;type=pref:;;No.88 PASO Tower,15th floor,Unit B2 Silom Road S
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.geniussoft.co.th/
 item2.X-ABLabel:_$!<HomePage>!$_
-END:VCARD
+END:VCARD  
